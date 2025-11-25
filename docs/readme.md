@@ -6,6 +6,11 @@ Mobile application for organizing events.
 
 - Create events
 - Manage participants
+* Deploy to Azure
+
+## Setup Instructions <-- ДОДАНО
+1. Clone the repository.
+2. Install dependencies.
 
 ## Git Process Notes
 
