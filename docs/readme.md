@@ -6,6 +6,7 @@ Mobile application for organizing events.
 
 - Create events
 - Manage participants
+* Deploy to Azure   <-- ДОДАНО
 
 ## Git Process Notes
 
